@@ -1,8 +1,11 @@
 import React from 'react'
+import {About} from './components/index'
 
 const App = () => {
   return (
-    <div className="bg-red-400">App</div>
+    <>
+      <About />
+    </>
   )
 }
 
