@@ -12,7 +12,7 @@ function Navbar() {
                 <li><a>Experience</a></li>
             </ul>
         </div>
-        <div><button className='bg-[#892929] p-1 rounded-sm hover:bg-[#793232]'><a href={data.contactLinks.github} target='_blank'>Github Profile</a></button></div>
+        <div><button className='bg-[#892929] p-1 rounded-sm hover:bg-[#793232] '><a href={data.contactLinks.github} target='_blank'>Github Profile</a></button></div>
     </nav>
   )
 }

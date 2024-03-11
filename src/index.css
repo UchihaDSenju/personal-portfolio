@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components{
+  .red-btn{
+    @apply bg-[#892929] p-1 rounded-sm hover:bg-[#793232] font-spaceGrotesk
+  }
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
