@@ -1,10 +1,11 @@
 import React from 'react'
-import {About} from './components/index'
+import {About, Skills} from './components/index'
 
 const App = () => {
   return (
     <>
       <About />
+      <Skills />
     </>
   )
 }
