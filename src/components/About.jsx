@@ -13,7 +13,7 @@ function About() {
         </div>
       </div>
       <div className='sm:w-[50%] flex flex-col justify-center items-center'>
-        <div className='bg-white w-[450px] h-[450px] rounded-full sm:w-[500px] sm:h-[500px]'><img src={data.aboutDesc.profile} className='object-cover w-[100%] h-[100%] rounded-full'></img></div>
+        <div className='bg-white w-[350px] h-[350px] rounded-full sm:w-[500px] sm:h-[500px]'><img src={data.aboutDesc.profile} className='object-cover w-[100%] h-[100%] rounded-full'></img></div>
       </div>
     </div>
   )

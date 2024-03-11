@@ -8,7 +8,7 @@ export const data =
             'whatsapp': ''
         },
         'aboutDesc': {
-            'desc': 'I have experience in building web and mobile applications using HTML/CSS/JavaScript/React.js using cool libraries and frameworks',
+            'desc': 'I have experience in building web and mobile applications using ReactJs using cool libraries and frameworks',
             'resumeLink': 'https://drive.google.com/file/d/1dWOSmNsmRyWEDZ3yUTAC_24tVHotDnh-/view?usp=sharing',
             'profile': profile
         }
