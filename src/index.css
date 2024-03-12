@@ -6,6 +6,9 @@
   .red-btn{
     @apply bg-[#892929] p-1 rounded-sm hover:bg-[#793232] font-spaceGrotesk
   }
+  .inputField{
+    @apply bg-[#2A2C34] text-white p-2 my-1 rounded-md
+  }
 }
 
 :root {

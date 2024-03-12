@@ -1,5 +1,6 @@
 import React from 'react'
-import {About, Projects, Skills} from './components/index'
+import {About, Contact, Experience, Projects, Skills} from './components/index'
+
 
 const App = () => {
   return (
@@ -7,6 +8,8 @@ const App = () => {
       <About />
       <Skills />
       <Projects />
+      <Experience />
+      <Contact />
     </>
   )
 }
