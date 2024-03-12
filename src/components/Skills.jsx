@@ -4,7 +4,7 @@ import Arrow from '../media/Arrow.png'
 
 function Skills() {
   return (
-    <div className='flex gap-6'>
+    <div className='flex gap-6 my-5'>
         <div className='flex p-3 sm:w-[50%] justify-center'>
             <div className='bg-[#A43030] rounded-lg p-5 sm:p-14 sm:w-[60%]'>
                 <h1 className='font-spaceGrotesk text-center text-2xl sm:hidden'>Tech Stack that I work with</h1>

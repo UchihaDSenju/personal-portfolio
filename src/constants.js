@@ -1,5 +1,7 @@
 import profile from './media/profile.jpg'
 import { SiReact, SiExpress, SiGit, SiMongodb, SiNodedotjs, SiSolidity, SiEthereum, SiGithub, SiMysql, SiRedux, SiSpring, SiSpringboot, SiSpringsecurity, SiFirebase } from "react-icons/si";
+import projectCover from './media/project.png'
+import { insultPage, Blockchain, simplyRecipes } from './media/projects';
 export const data = 
     {
         'contactLinks': {
@@ -70,5 +72,23 @@ export const data =
             //     'logo': SiSpringsecurity,
             //     'techName': 'MySql'
             // },
+        ],
+        'projects': [
+            {
+                'coverImage': Blockchain,
+                'name': 'Web3 Polling System'
+            },
+            {
+                'coverImage': insultPage,
+                'name': 'Insult Page'
+            },
+            {
+                'coverImage': simplyRecipes,
+                'name': 'SimplyRecipes'
+            },
+            {
+                'coverImage': projectCover,
+                'name': 'Project Name'
+            },
         ]
     }
