@@ -3,7 +3,7 @@ import { data } from '../constants'
 
 function About() {
   return (
-    <div className='bg-[#2D3658] p-2 flex flex-col-reverse w-full justify-evenly my-5 sm:flex-row'>
+    <div className='bg-[#2D3658] p-2 flex flex-col-reverse w-full justify-evenly mb-5 sm:flex-row'>
       <div className='sm:w-[50%] flex font-caveat justify-center items-center flex-col text-4xl'>
         <div className='leading-[4rem] flex flex-col mt-7 sm:mt-0'>
           <div className='text-center text-5xl'>Hi I am Mohamed Tariq</div>

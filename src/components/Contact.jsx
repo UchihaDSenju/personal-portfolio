@@ -34,7 +34,7 @@ export default function Contact() {
           <input className="inputField" type="email" name="email" placeholder="Email" required/>
           <textarea className="inputField" name="message" placeholder="Any message for me..." required></textarea>
   
-          <button className="red-btn mt-5" type="submit">Submit Form</button>
+          <button className="red-btn mt-5" type="submit">Send</button>
   
         </form>
         <span className="font-spaceGrotesk mt-5">{result}</span>

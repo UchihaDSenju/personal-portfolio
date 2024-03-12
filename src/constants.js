@@ -1,5 +1,5 @@
 import profile from './media/profile.jpg'
-import { SiReact, SiExpress, SiGit, SiMongodb, SiNodedotjs, SiSolidity, SiEthereum, SiGithub, SiMysql, SiRedux, SiSpring, SiSpringboot, SiSpringsecurity, SiFirebase } from "react-icons/si";
+import { SiReact, SiExpress, SiGit, SiMongodb, SiNodedotjs, SiSolidity, SiEthereum, SiGithub, SiMysql, SiRedux, SiSpring, SiSpringboot, SiSpringsecurity, SiFirebase, SiFigma } from "react-icons/si";
 import projectCover from './media/project.png'
 import { insultPage, Blockchain, simplyRecipes } from './media/projects';
 export const data = 
@@ -59,6 +59,10 @@ export const data =
             {
                 'logo': SiFirebase,
                 'techName': 'FireBase'
+            },
+            {
+                'logo': SiFigma,
+                'techName': 'Figma'
             },
             // {
             //     'logo': SiSpring,
