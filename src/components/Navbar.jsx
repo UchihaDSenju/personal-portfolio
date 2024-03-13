@@ -7,9 +7,10 @@ function Navbar() {
         <div className='hidden sm:block'>Logo Here</div>
         <div>
             <ul className='flex gap-5'>
-                <li><a>Home</a></li>
-                <li><a>Projects</a></li>
-                <li><a>Experience</a></li>
+                <li><a href='#about'>Home</a></li>
+                <li><a href='#projects'>Projects</a></li>
+                <li><a href='#experience'>Experience</a></li>
+                <li><a href='#contact'>Contact</a></li>
             </ul>
         </div>
         <div><button className='hidden sm:red-btn sm:block'><a href={data.contactLinks.github} target='_blank'>Github Profile</a></button></div>

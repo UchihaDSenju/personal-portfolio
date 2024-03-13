@@ -27,7 +27,7 @@ export default function Contact() {
     };
   
     return (
-      <div className="bg-[#A43030] flex flex-col items-center p-4 rounded-lg mx-auto my-5 sm:w-[30%] sm:my-6">
+      <div id="contact" className="bg-[#A43030] flex flex-col items-center p-4 rounded-lg mx-auto my-5 sm:w-[30%] sm:my-6">
         <h1 className="font-spaceGrotesk my-3 text-2xl">Feel free to contact me</h1>
         <form className="flex flex-col gap-3 w-[80%]" onSubmit={onSubmit}>
           <input className="inputField" type="text" name="name" placeholder="Name" required/>

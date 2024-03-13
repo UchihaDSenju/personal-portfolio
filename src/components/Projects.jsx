@@ -3,7 +3,7 @@ import { data } from '../constants'
 
 function Projects() {
   return (
-    <div className='flex flex-col my-5'>
+    <div id='projects' className='flex flex-col my-5'>
         <div className='bg-[#892929] p-2 rounded-t-md text-center'>
             <h1 className='font-spaceGrotesk text-2xl sm:text-4xl'>Projects BillBoard</h1>
         </div>
