@@ -80,19 +80,22 @@ export const data =
         'projects': [
             {
                 'coverImage': Blockchain,
-                'name': 'Web3 Polling System'
+                'name': 'Web3 Polling System',
+                'link': 'https://uchihadsenju.github.io/web3_polling_system/'
             },
             {
                 'coverImage': insultPage,
-                'name': 'Insult Page'
+                'name': 'Insult Page',
+                'link': 'https://uchihadsenju.github.io/insult-page-2/'
             },
             {
                 'coverImage': simplyRecipes,
-                'name': 'SimplyRecipes'
+                'name': 'SimplyRecipes',
+                'link': 'https://uchihadsenju.github.io/Flypat-Internship-2/'
             },
-            {
-                'coverImage': projectCover,
-                'name': 'Project Name'
-            },
+            // {
+            //     'coverImage': projectCover,
+            //     'name': 'Project Name'
+            // },
         ]
     }
