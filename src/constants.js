@@ -1,4 +1,4 @@
-import profile from './media/profile.jpg'
+import profile from './media/profile.jpeg'
 import { SiReact, SiExpress, SiGit, SiMongodb, SiNodedotjs, SiSolidity, SiEthereum, SiGithub, SiMysql, SiRedux, SiSpring, SiSpringboot, SiSpringsecurity, SiFirebase, SiFigma } from "react-icons/si";
 import projectCover from './media/project.png'
 import { insultPage, Blockchain, simplyRecipes } from './media/projects';
@@ -12,7 +12,7 @@ export const data =
         },
         'aboutDesc': {
             'desc': 'I have experience in building web and mobile applications using ReactJs using cool libraries and frameworks',
-            'resumeLink': 'https://drive.google.com/file/d/1dWOSmNsmRyWEDZ3yUTAC_24tVHotDnh-/view?usp=sharing',
+            'resumeLink': 'https://drive.google.com/file/d/1D1Kltj5zAn68R4-wVGQbgX4LWMZhRkzD/view?usp=sharing',
             'profile': profile
         },
         techStacks: [
